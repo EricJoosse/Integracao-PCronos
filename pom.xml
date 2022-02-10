@@ -127,7 +127,7 @@
 	    <groupId>org.hibernate</groupId>
 	    <artifactId>hibernate-core</artifactId>
 <!-- 	<version>3.3.0.SP1</version> -->
-		<version>5.4.10.Final</version>
+		<version>5.4.24.Final</version>
 	</dependency>
 	
 	<!-- Java bean validation API - Especificação (interfaces): -->
